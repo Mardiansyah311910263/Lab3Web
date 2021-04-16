@@ -6,7 +6,7 @@ Mardiansyah
 TI.19.C.1
 Universitas Pelita Bangsa
 ```
-##Langkah-langkah Praktikum
+## Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ```
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 </body>
 </html>
 ```
-##Membuat Ordered List
+## Membuat Ordered List
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut
 ```
 <section id="order-list">
@@ -36,7 +36,7 @@ Kemudian tambahkan kode untuk membuat Ordered List seperti berikut
 </section>
 ```
 ![membuat list](https://user-images.githubusercontent.com/81758407/115006465-1d317280-9ed3-11eb-9507-6135887cc80e.PNG)
-##Membuat Unorderd List
+## Membuat Unorderd List
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada 
 section unordered-list, seperti berikut.
 ```
@@ -50,7 +50,7 @@ section unordered-list, seperti berikut.
 </section>
 ```
 ![list 2](https://user-images.githubusercontent.com/81758407/115007211-f1fb5300-9ed3-11eb-9a07-b85524ebc03f.PNG)
-##Membuat Description List
+## Membuat Description List
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 ```
 <section id="unorder-list">
@@ -68,7 +68,7 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 </section>
 ```
 ![description list](https://user-images.githubusercontent.com/81758407/115007499-3c7ccf80-9ed4-11eb-8925-2d274b7dcfcb.PNG)
-##Membuat Tabel
+## Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
 ```
 <!DOCTYPE html>
@@ -115,14 +115,14 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 </table>
 ```
 ![tabel 1](https://user-images.githubusercontent.com/81758407/115008159-ff650d00-9ed4-11eb-837f-465f23f4aad4.PNG)
-##Mengatur Margin dan Padding
+## Mengatur Margin dan Padding
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan 
 cellspacing pada tag table.
 ```
 <table border="1" cellpadding="4" cellspacing="0">
 ```
 ![TABLE](https://user-images.githubusercontent.com/81758407/115008300-27ed0700-9ed5-11eb-9d06-156c278d7165.PNG)
-##Menggabungkan Sel Data
+## Menggabungkan Sel Data
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk 
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara 
 horizontal). 
@@ -153,7 +153,7 @@ horizontal).
 </table>
 ```
 ![rowspan](https://user-images.githubusercontent.com/81758407/115008599-81edcc80-9ed5-11eb-9229-5d0914f43c49.PNG)
-##Membuat Form
+## Membuat Form
 Buat file baru dengan nama lab3_form.html seperti berikut.
 ```
 <!DOCTYPE html>
@@ -196,7 +196,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 </form>
 ```
 ![data pelanggan](https://user-images.githubusercontent.com/81758407/115009252-4b648180-9ed6-11eb-8737-f5b1944df74d.PNG)
-##Menabahkan Style pada Form
+## Menabahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ```
 <style>
@@ -217,7 +217,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 </style>
 ```
 ![style login](https://user-images.githubusercontent.com/81758407/115009969-0db42880-9ed7-11eb-9068-27a5404125aa.PNG)
-##Pertanyaan dan Tugas
+## Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 ```
 <!DOCTYPE html>
